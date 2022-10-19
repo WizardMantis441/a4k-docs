@@ -2,7 +2,7 @@
 
 Average4K information, all in one place.
 
-WE LOVE KADE DEV HAHAHAHAHAHAH
+WE LOVE KADE DEV HAHAHAHAHAHAHA
 
 **NOTE: All information stored is in the [Wiki tab](https://github.com/WizardMantis441/a4k-docs/wiki).**
 
@@ -237,3 +237,5 @@ When set to `path: default` , the skin will take the default menu elements from 
 2. Paste the folder in your custom skin folder, and rename it to whatever you want (I'll use `skinAssets` for the sake of this tutorial)
 3. In `config.skin`, change the path to the name of the folder (`path: skinAssets`)
 4. Skin the menu! All changes made to the images in this folder will apply to your game when your skin is selected.
+=======
+*When looking at code samples, remember that your lua file must still be named `mod.lua`, and that you cannot have more than one lua file.* 
